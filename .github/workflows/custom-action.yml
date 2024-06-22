@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: sujith0408/barsoom@0.0.5
+        uses: sujith0408/barsoom@v1.5
         with:
           name: 'Om Namah Shivay'
       # Use the output from the `hello` step
